@@ -1,7 +1,7 @@
 ﻿Imports System.Data.OleDb
 Imports System.Security.Cryptography
 Imports System.Text
-
+''jaminima is gay
 Public Class frmGame
 #Region "Variables"
     Dim xDirection1 As Integer
